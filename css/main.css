@@ -93,7 +93,7 @@ img {
 .hero {
   padding-top: 96px;
   padding-bottom: 74px;
-  background-image: linear-gradient(180deg, #242b33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242b33 92.19%), url(/image/hero-img.jpg);
+  background-image: linear-gradient(180deg, #242b33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242b33 92.19%), url(./image/hero-img.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -323,7 +323,7 @@ img {
 .work__link {
   position: relative;
   display: block;
-  background-image: linear-gradient(180deg, #242b33 0%, rgba(36, 43, 51, 0) 0.01%, #242b33 100%), url(/image/exemple-img.jpg);
+  background-image: linear-gradient(180deg, #242b33 0%, rgba(36, 43, 51, 0) 0.01%, #242b33 100%), url(./image/exemple-img.jpg);
   max-width: 480px;
   height: 200px;
   background-repeat: no-repeat;
