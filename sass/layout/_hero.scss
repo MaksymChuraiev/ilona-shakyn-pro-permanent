@@ -7,7 +7,7 @@
       rgba(45, 52, 60, 0.38) 51.04%,
       #242b33 92.19%
     ),
-    url(../image/hero-mob.jpg);
+    url(../image/hero480x402.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -22,7 +22,7 @@
         rgba(45, 52, 60, 0.38) 51.04%,
         #242b33 92.19%
       ),
-      url(../image/hero-comp.jpg);
+      url(../image/hero1280x560.jpg);
   }
 }
 
@@ -45,7 +45,7 @@
 .hero__list {
   display: flex;
 
-  margin-top: 82px;
+  margin-top: 22px;
   justify-content: center;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .hero__info-list {
-  margin-top: 50px;
+  margin-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;

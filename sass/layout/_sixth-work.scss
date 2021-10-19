@@ -1,4 +1,4 @@
-.first-work {
+.sixth-work {
   width: 100vw;
   height: 100vh;
   padding-top: 96px;
@@ -9,20 +9,20 @@
       rgba(45, 52, 60, 0.38) 51.04%,
       #242b33 92.19%
     ),
-    url(../image/work/work-1.jpg);
+    url(../image/work/work-8.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   margin: 0 auto;
 }
 
-.first-work__link {
+.sixth-work__link {
   position: absolute;
   top: 85vh;
   right: 10vw;
 }
 
-.first-work__icon {
+.sixth-work__icon {
   fill: var(--main-icon-color);
   transition: fill var(--main-time-anime) var(--main-anime);
 

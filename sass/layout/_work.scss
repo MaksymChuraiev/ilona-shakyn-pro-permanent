@@ -60,7 +60,192 @@
       rgba(36, 43, 51, 0) 0.01%,
       #242b33 100%
     ),
-    url(../image/exemple-img.jpg);
+    url(../image/work/work-1.jpg);
+  max-width: 480px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  &:hover,
+  &:focus {
+    border: 1px solid var(--main-nav-color);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 535px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 1200px) {
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 535px;
+    height: 320px;
+  }
+}
+
+.work__link-2 {
+  position: relative;
+  display: block;
+  background-image: linear-gradient(
+      180deg,
+      #242b33 0%,
+      rgba(36, 43, 51, 0) 0.01%,
+      #242b33 100%
+    ),
+    url(../image/work/work-2.jpg);
+  max-width: 480px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  &:hover,
+  &:focus {
+    border: 1px solid var(--main-nav-color);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 535px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 1200px) {
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 535px;
+    height: 320px;
+  }
+}
+
+.work__link-3 {
+  position: relative;
+  display: block;
+  background-image: linear-gradient(
+      180deg,
+      #242b33 0%,
+      rgba(36, 43, 51, 0) 0.01%,
+      #242b33 100%
+    ),
+    url(../image/work/work-3.jpg);
+  max-width: 480px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  &:hover,
+  &:focus {
+    border: 1px solid var(--main-nav-color);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 535px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 1200px) {
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 535px;
+    height: 320px;
+  }
+}
+
+.work__link-4 {
+  position: relative;
+  display: block;
+  background-image: linear-gradient(
+      180deg,
+      #242b33 0%,
+      rgba(36, 43, 51, 0) 0.01%,
+      #242b33 100%
+    ),
+    url(../image/work/work-4.jpg);
+  max-width: 480px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  &:hover,
+  &:focus {
+    border: 1px solid var(--main-nav-color);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 535px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 1200px) {
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 535px;
+    height: 320px;
+  }
+}
+
+.work__link-5 {
+  position: relative;
+  display: block;
+  background-image: linear-gradient(
+      180deg,
+      #242b33 0%,
+      rgba(36, 43, 51, 0) 0.01%,
+      #242b33 100%
+    ),
+    url(../image/work/work-5.jpg);
+  max-width: 480px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  &:hover,
+  &:focus {
+    border: 1px solid var(--main-nav-color);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 535px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 1200px) {
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 535px;
+    height: 320px;
+  }
+}
+
+.work__link-6 {
+  position: relative;
+  display: block;
+  background-image: linear-gradient(
+      180deg,
+      #242b33 0%,
+      rgba(36, 43, 51, 0) 0.01%,
+      #242b33 100%
+    ),
+    url(../image/work/work-8.jpg);
   max-width: 480px;
   height: 200px;
   background-repeat: no-repeat;
