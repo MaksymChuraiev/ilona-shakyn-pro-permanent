@@ -9,11 +9,16 @@
   }
 
   @media screen and (min-width: 1200px) {
-    padding-top: 120px;
+    padding-top: 20px;
     padding-bottom: 120px;
   }
 }
 
-.quotes__text:not(:last-child) {
-  margin-bottom: 16px;
+.quotes__text {
+  &:not(:last-child) {
+    margin-bottom: 16px;
+  }
+  @media screen and (min-width: 1200px) {
+    margin-left: 90px;
+  }
 }
