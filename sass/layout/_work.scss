@@ -1,5 +1,6 @@
 .work {
   background-color: #242b33;
+  padding-top: 80px;
   padding-bottom: 80px;
 
   @media screen and (min-width: 768px) {
@@ -275,9 +276,11 @@
 
 .work__text {
   position: absolute;
-  left: 30px;
+  left: 50%;
   bottom: 30px;
+  transform: translateX(-50%);
   font-family: "Raleway", sans-serif;
   font-size: 16px;
   line-height: calc(28 / 24);
+  text-align: center;
 }
